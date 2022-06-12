@@ -6,4 +6,5 @@ PyTorch-Self-Study Plan
  - CNN
  - CNN with CAM or Grad CAM
  - R-CNN
+ - YOLO
  - Other recent deep leanring models 
